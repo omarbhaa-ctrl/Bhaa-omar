@@ -1,0 +1,58 @@
+{
+  "v": 4,
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-11-09T19:20:00Z"
+  },
+  "lists": "css",
+  "title": "יום חשיפה לסיעוד – אסותא רמת החייל",
+  "order": [
+    "cover",
+    "welcome",
+    "numbers",
+    "journey",
+    "worlds",
+    "decision",
+    "excellence",
+    "innovation",
+    "start",
+    "grow",
+    "people",
+    "why",
+    "future",
+    "invite"
+  ],
+  "sections": {
+    "s1": {
+      "description": "פתיחה: הבחירה בסיעוד והשאלה לאן אפשר להגיע",
+      "start": "cover"
+    },
+    "s2": {
+      "description": "היכרות עם אסותא רמת החייל: היקף, מספרים ומגוון קליני",
+      "start": "welcome"
+    },
+    "s3": {
+      "description": "האחות בלב העשייה: שיקול דעת, מצוינות וטכנולוגיה",
+      "start": "decision"
+    },
+    "s4": {
+      "description": "העתיד המקצועי של הסטודנטים: קליטה, צמיחה ואנשים",
+      "start": "start"
+    },
+    "s5": {
+      "description": "סיום: למה אסותא, חזרה לשאלת הפתיחה והזמנה",
+      "start": "why"
+    }
+  },
+  "faces": {
+    "heebo": {
+      "family": "Heebo",
+      "href": "https://fonts.googleapis.com/css2?family=Heebo:wght@300..800&display=swap"
+    },
+    "frank-ruhl-libre": {
+      "family": "Frank Ruhl Libre",
+      "href": "https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&display=swap"
+    }
+  },
+  "designSystems": []
+}
